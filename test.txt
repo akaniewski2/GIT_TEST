@@ -6,4 +6,4 @@
 6.br1.c3
 7.br1.c4
 9.br1.c5
-10  koniec
+10.koniec
