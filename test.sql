@@ -1,3 +1,3 @@
 create TABLE as
-SELECT * from test --tabela tymczasowa
+SELECT * from test --tabela tymczasowa ?
 where 1=1
